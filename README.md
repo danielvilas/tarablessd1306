@@ -14,3 +14,6 @@ It supports multiple display sizes on both i2c and spi interfaces.
 Check out the wiki where most of the relevant information is.
 
 ***Examples:*** https://github.com/TaraHoleInIt/tarablessd1306_examples
+
+## Changes
+This repository is for developing a version compatible wiht Platform.io, ESP-IDF make and ESP-IDF CMake
